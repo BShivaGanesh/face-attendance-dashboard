@@ -18,27 +18,7 @@
           "/images/random_images/images_obj_3/obj_3_7.jpg"
         ]
       },
-      {
-        "id": 17532,
-        "name": "RAHUL",
-        "section": "COMPUTER SCIENCE",
-        "date": "2024-10-18",
-        "time_in": "09:15:45",
-        "profile_image": "/images/profile_images/obj_1830.jpg",
-        "images": [
-          "/images/random_images/images_obj_1830/obj_1830_1.jpg",
-          "/images/random_images/images_obj_1830/obj_1830_2.jpg",
-          "/images/random_images/images_obj_1830/obj_1830_3.jpg",
-          "/images/random_images/images_obj_1830/obj_1830_4.jpg",
-          "/images/random_images/images_obj_1830/obj_1830_5.jpg",
-          "/images/random_images/images_obj_1830/obj_1830_6.jpg",
-          "/images/random_images/images_obj_1830/obj_1830_7.jpg",
-          "/images/random_images/images_obj_1830/obj_1830_8.jpg",
-          "/images/random_images/images_obj_1830/obj_1830_9.jpg",
-          "/images/random_images/images_obj_1830/obj_1830_10.jpg"
-          
-        ]
-      },
+     
       {
         "id": 16547,
         "name": "AKHIL",
@@ -114,6 +94,46 @@
           "/images/random_images/images_obj_1794/obj_1794_6.jpg",
           "/images/random_images/images_obj_1794/obj_1794_7.jpg",
           "/images/random_images/images_obj_1794/obj_1794_8.jpg"
+          
+        ]
+      },
+      {
+        
+        "id": 1525,
+        "name": "SRINIVAS",
+        "section": "INFORMATION TECHNOLOGY",
+        "date": "2024-10-18",
+        "time_in": "11:10:32",
+        "profile_image": "/images/profile_images/obj_3.jpg",
+        "images": [
+          "/images/random_images/images_obj_3/obj_3_1.jpg",
+          "/images/random_images/images_obj_3/obj_3_2.jpg",
+          "/images/random_images/images_obj_3/obj_3_3.jpg",
+          "/images/random_images/images_obj_3/obj_3_4.jpg",
+          "/images/random_images/images_obj_3/obj_3_5.jpg",
+          "/images/random_images/images_obj_3/obj_3_6.jpg",
+          "/images/random_images/images_obj_3/obj_3_7.jpg"
+        ]
+      },
+     
+      {
+        "id": 1654,
+        "name": "AKHIL",
+        "section": "ELECTRICAL ENGINEERING",
+        "date": "2024-10-18",
+        "time_in": "10:05:30",
+        "profile_image": "/images/profile_images/obj_1829.jpg",
+        "images": [
+          "/images/random_images/images_obj_1829/obj_1829_1.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_2.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_3.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_4.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_5.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_6.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_7.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_8.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_9.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_10.jpg"
           
         ]
       }

@@ -1,0 +1,122 @@
+{
+    "users": [
+      {
+        
+        "id": 15245,
+        "name": "SRINIVAS",
+        "section": "INFORMATION TECHNOLOGY",
+        "date": "2024-10-18",
+        "time_in": "11:10:32",
+        "profile_image": "/images/profile_images/obj_3.jpg",
+        "images": [
+          "/images/random_images/images_obj_3/obj_3_1.jpg",
+          "/images/random_images/images_obj_3/obj_3_2.jpg",
+          "/images/random_images/images_obj_3/obj_3_3.jpg",
+          "/images/random_images/images_obj_3/obj_3_4.jpg",
+          "/images/random_images/images_obj_3/obj_3_5.jpg",
+          "/images/random_images/images_obj_3/obj_3_6.jpg",
+          "/images/random_images/images_obj_3/obj_3_7.jpg"
+        ]
+      },
+      {
+        "id": 17532,
+        "name": "RAHUL",
+        "section": "COMPUTER SCIENCE",
+        "date": "2024-10-18",
+        "time_in": "09:15:45",
+        "profile_image": "/images/profile_images/obj_1830.jpg",
+        "images": [
+          "/images/random_images/images_obj_1830/obj_1830_1.jpg",
+          "/images/random_images/images_obj_1830/obj_1830_2.jpg",
+          "/images/random_images/images_obj_1830/obj_1830_3.jpg",
+          "/images/random_images/images_obj_1830/obj_1830_4.jpg",
+          "/images/random_images/images_obj_1830/obj_1830_5.jpg",
+          "/images/random_images/images_obj_1830/obj_1830_6.jpg",
+          "/images/random_images/images_obj_1830/obj_1830_7.jpg",
+          "/images/random_images/images_obj_1830/obj_1830_8.jpg",
+          "/images/random_images/images_obj_1830/obj_1830_9.jpg",
+          "/images/random_images/images_obj_1830/obj_1830_10.jpg"
+          
+        ]
+      },
+      {
+        "id": 16547,
+        "name": "AKHIL",
+        "section": "ELECTRICAL ENGINEERING",
+        "date": "2024-10-18",
+        "time_in": "10:05:30",
+        "profile_image": "/images/profile_images/obj_1829.jpg",
+        "images": [
+          "/images/random_images/images_obj_1829/obj_1829_1.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_2.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_3.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_4.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_5.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_6.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_7.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_8.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_9.jpg",
+          "/images/random_images/images_obj_1829/obj_1829_10.jpg"
+          
+        ]
+      },
+      {
+        "id": 15947,
+        "name": "PAVAN",
+        "section": "CIVIL ENGINEERING",
+        "date": "2024-10-18",
+        "time_in": "08:45:20",
+        "profile_image": "/images/profile_images/obj_1827.jpg",
+        "images": [
+          "/images/random_images/images_obj_1827/obj_1827_1.jpg",
+           "/images/random_images/images_obj_1827/obj_1827_2.jpg",
+           "/images/random_images/images_obj_1827/obj_1827_3.jpg",
+           "/images/random_images/images_obj_1827/obj_1827_4.jpg",
+           "/images/random_images/images_obj_1827/obj_1827_5.jpg",
+           "/images/random_images/images_obj_1827/obj_1827_6.jpg",
+           "/images/random_images/images_obj_1827/obj_1827_7.jpg",
+           "/images/random_images/images_obj_1827/obj_1827_8.jpg"
+
+          
+        ]
+      },
+      {
+        "id": 18076,
+        "name": "VIKRAM",
+        "section": "MECHANICAL ENGINEERING",
+        "date": "2024-10-18",
+        "time_in": "12:30:50",
+        "profile_image": "/images/profile_images/obj_1825.jpg",
+        "images": [
+          "/images/random_images/images_obj_1825/obj_1825_1.jpg",
+          "/images/random_images/images_obj_1825/obj_1825_2.jpg",
+          "/images/random_images/images_obj_1825/obj_1825_3.jpg",
+          "/images/random_images/images_obj_1825/obj_1825_4.jpg",
+          "/images/random_images/images_obj_1825/obj_1825_5.jpg",
+          "/images/random_images/images_obj_1825/obj_1825_6.jpg",
+          "/images/random_images/images_obj_1825/obj_1825_7.jpg",
+          "/images/random_images/images_obj_1825/obj_1825_8.jpg"
+        ]
+      },
+      {
+        "id": 18077,
+        "name": "AKSHAY",
+        "section": "ELECTRICAL ENGINEERING",
+        "date": "2024-10-18",
+        "time_in": "07:55:10",
+        "profile_image": "/images/profile_images/obj_1794.jpg",
+        "images": [
+          "/images/random_images/images_obj_1794/obj_1794_1.jpg",
+          "/images/random_images/images_obj_1794/obj_1794_2.jpg",
+          "/images/random_images/images_obj_1794/obj_1794_3.jpg",
+          "/images/random_images/images_obj_1794/obj_1794_4.jpg",
+          "/images/random_images/images_obj_1794/obj_1794_5.jpg",
+          "/images/random_images/images_obj_1794/obj_1794_6.jpg",
+          "/images/random_images/images_obj_1794/obj_1794_7.jpg",
+          "/images/random_images/images_obj_1794/obj_1794_8.jpg"
+          
+        ]
+      }
+    ]
+  }
+  

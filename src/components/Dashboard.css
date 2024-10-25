@@ -1,0 +1,174 @@
+.sidebar {
+  min-height: 100vh;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 240px;
+  background-color: #4CB5AE; 
+}
+
+
+.nav-item a {
+  font-size: 18px;
+  padding: 12px;
+  color: #000;
+  text-decoration: none; 
+}
+
+
+.nav-item a:hover {
+  background-color: #000; 
+  color: #ffffff !important; 
+}
+
+
+.sidebar .logo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+
+.sidebar * {
+  color: #000 !important;
+}
+
+
+.sidebar .dropdown-menu {
+  color: #ffffff;
+}
+
+.sidebar .dropdown-menu .dropdown-item:hover {
+  background-color: #000;
+  color: #ffffff; 
+}
+
+
+body {
+  background-color: #F5F5F7; 
+  color: #2B2D42;
+}
+
+
+.container-fluid {
+  margin-left: 10px;
+  padding: 20px;
+}
+
+
+main {
+  margin-left: 0;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+
+.card {
+  background-color: #EAEAEA; 
+  color: #2B2D42; 
+  margin-bottom: 20px;
+  transition: transform 0.3s ease, border 0.3s ease;
+  border-radius: 8px; 
+  border: 1px solid #CCCCCC; 
+}
+.card_size {
+  width: 100%;
+  max-width: 250px; /* Fixed width for uniform card sizes */
+  height: 350px;
+  background-color: #EAEAEA;
+  color: #2B2D42;
+  border-radius: 8px;
+  border: 1px solid #CCCCCC;
+  transition: transform 0.3s ease, border 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card:hover {
+  border: 2px solid #4CB5AE; 
+  transform: translateY(-8px) scale(1.03);
+  cursor: pointer;
+}
+
+
+.card-header {
+  background-color: #CCCCCC; 
+  color: #2B2D42;
+}
+
+.card-footer {
+  background-color: #CCCCCC;
+  color: #2B2D42;
+}
+
+
+.img-fluid {
+  border: 2px solid #4CB5AE;
+  border-radius: 50%;
+}
+
+input[type="checkbox"] {
+  accent-color: #4CB5AE;
+}
+
+
+button {
+  background-color: #4CB5AE;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px; 
+  padding: 10px 20px;
+}
+
+button:hover {
+  background-color: #FF6F61;
+  color: #ffffff;
+}
+
+
+.navbar {
+  background-color: #4CB5AE !important;
+  color: #000000 !important; 
+}
+
+.navbar a {
+  color: #000000 !important; 
+  text-decoration: none; 
+}
+
+.navbar a:hover {
+  color: #ffffff !important; 
+  background-color: transparent;
+}
+
+.nav-item a:hover .fa-icon {
+  color: #ffffff; 
+}
+
+input[type="text"] {
+  background-color: #EAEAEA;
+  color: #2B2D42;
+  border: 1px solid #4CB5AE; /* Teal border */
+}
+
+input[type="text"]::placeholder {
+  color: #888888;
+}
+
+
+form, .form-control {
+  background-color: #F5F5F7;
+  color: #2B2D42;
+}
+
+
+.sidebar .input-group {
+  max-width: 200px;
+  margin: 20px auto;
+}
+
